@@ -1,4 +1,4 @@
-let link_arr = [
+var link_arr = [
       {
         "linkName": '线路1',
         "linkUrl": 'https://h5.qyhyin1.com/',
