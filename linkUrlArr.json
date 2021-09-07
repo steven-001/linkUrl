@@ -1,5 +1,5 @@
 {
-  "link_arr": [
+  "h5Arr": [
     {
       "linkName": "普通1",
       "linkUrl": "https://m.qyhyin1.com",
@@ -23,6 +23,33 @@
     {
       "linkName": "VIP2",
       "linkUrl": "https://m.qyhyin6.com",
+      "isVip": 1
+    }
+  ],
+  "pcArr": [
+    {
+      "linkName": "普通1",
+      "linkUrl": "https://g.qyhyin1.com",
+      "isVip": 0
+    },
+    {
+      "linkName": "普通2",
+      "linkUrl": "https://g.qyhyin2.com",
+      "isVip": 0
+    },
+    {
+      "linkName": "普通3",
+      "linkUrl": "https://g.qyhyin3.com",
+      "isVip": 0
+    },
+    {
+      "linkName": "VIP1",
+      "linkUrl": "https://g.qyhyin4.com",
+      "isVip": 1
+    },
+    {
+      "linkName": "VIP2",
+      "linkUrl": "https://g.qyhyin6.com",
       "isVip": 1
     }
   ]
