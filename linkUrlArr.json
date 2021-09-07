@@ -1,17 +1,17 @@
 {
   "link_arr": [
     {
-      "linkName": "普通线路1",
+      "linkName": "普通1",
       "linkUrl": "https://m.qyhyin1.com/",
       "isVip": 0
     },
     {
-      "linkName": "普通线路2",
+      "linkName": "普通2",
       "linkUrl": "https://m.qyhyin2.com/",
       "isVip": 0
     },
     {
-      "linkName": "VIP线路1",
+      "linkName": "VIP1",
       "linkUrl": "https://m.qyhyin3.com/",
       "isVip": 1
     }
