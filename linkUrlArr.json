@@ -18,7 +18,7 @@
     {
       "linkName": "VIP1",
       "linkUrl": "https://m.qyhyin4.com",
-      "isVip": 1
+      "isVip": 0
     }
   ],
   "pcArr": [
@@ -40,7 +40,7 @@
     {
       "linkName": "VIP1",
       "linkUrl": "https://g.qyhyin4.com",
-      "isVip": 1
+      "isVip": 0
     }
   ]
 }
